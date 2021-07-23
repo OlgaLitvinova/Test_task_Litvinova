@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TaskTest" duration-ms="12710" started-at="2021-07-23T11:00:20Z" finished-at="2021-07-23T11:00:33Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="12710" started-at="2021-07-23T11:00:20Z" finished-at="2021-07-23T11:00:33Z">
+      <class name="TaskTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:TaskTest@13fee20c]" name="beforeSuite" is-config="true" duration-ms="4366" started-at="2021-07-23T11:00:16Z" finished-at="2021-07-23T11:00:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TaskTest@13fee20c]" name="beforeMethod" is-config="true" duration-ms="4064" started-at="2021-07-23T11:00:20Z" finished-at="2021-07-23T11:00:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="notCorrectLogin()[pri:0, instance:TaskTest@13fee20c]" name="notCorrectLogin" duration-ms="1255" started-at="2021-07-23T11:00:25Z" finished-at="2021-07-23T11:00:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- notCorrectLogin -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TaskTest@13fee20c]" name="beforeMethod" is-config="true" duration-ms="812" started-at="2021-07-23T11:00:26Z" finished-at="2021-07-23T11:00:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="notCorrectPassword()[pri:0, instance:TaskTest@13fee20c]" name="notCorrectPassword" duration-ms="2336" started-at="2021-07-23T11:00:27Z" finished-at="2021-07-23T11:00:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- notCorrectPassword -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TaskTest@13fee20c]" name="beforeMethod" is-config="true" duration-ms="769" started-at="2021-07-23T11:00:29Z" finished-at="2021-07-23T11:00:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="successfulLogin()[pri:0, instance:TaskTest@13fee20c]" name="successfulLogin" duration-ms="3430" started-at="2021-07-23T11:00:30Z" finished-at="2021-07-23T11:00:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfulLogin -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:TaskTest@13fee20c]" name="afterSuite" is-config="true" duration-ms="3104" started-at="2021-07-23T11:00:34Z" finished-at="2021-07-23T11:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- TaskTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TaskTest -->
+</testng-results>
